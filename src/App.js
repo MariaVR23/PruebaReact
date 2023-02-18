@@ -4,6 +4,7 @@ import imagen1 from "./images/rey_ervigio.png"
 import imagen2 from "./images/rey_leogivildo.png"
 import './App.css';
 
+
 function App() {
   let nombres=["Atanagildo.png","Ervigio.png","Leogivildo.png"];
   let caja=<div>Nombre etiqueta </div>;
